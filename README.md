@@ -1,1 +1,2 @@
-# diabetes_nb
+# diabetes_gnb
+Diabetes Classification using Naive Bayes Algorithm
